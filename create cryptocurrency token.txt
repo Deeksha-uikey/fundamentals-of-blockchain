@@ -1,0 +1,15 @@
+Fundamentals of Blockchain Technology Module:
+
+1) How to create your own Cryptocurrency token on Ethereum
+Blockchain?
+
+answer: 
+
+for creating your own cryptocurrency token on Ethereum blockchain first you need to go to trustswap website.
+open the official website of trustswap.io and then link or connect your metamask wallet to it.
+then on metamask switch or change the network to Ethereum and confirm the process now to you are connected with metamask. 
+then you need to click on create token and select all the features required or shown in that tab. 
+then a new tab will open in that you need to fill the requirements such as your token name, token id, 
+choose an image for you cryptocurrency token and keep the supply according to you what number of token you want to create. 
+then click on confirm and you have successfully created your cryptocurrency token on Ethereum blockchain using trustswap
+ where you don't need to run or deploy any smart contract it is freely available.

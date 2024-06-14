@@ -1,0 +1,11 @@
+2) How to mint your created Cryptocurrency token on Ethereum
+Blockchain?
+
+
+now for minting your own created token on Ethereum blockchain first you need to 
+connect your metamask to Ethereum network with trustswap where you created your cryptocurrency.
+now you can select the features shown there and click on mint token this will lead to your metamask 
+and for this you should have test ethers in your metamask and then click on confirm transaction.
+this will mint your token as soon as you confirm the transaction it will cost you some small amount of gas fees.
+now you can see the minted token on ether scan website where you have to copy and paste your account address of 
+metamask wallet and by clicking it you can  see your created or minted token successfully on ether scan. 
